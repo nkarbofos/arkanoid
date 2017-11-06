@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1509962585 source:/home/nikita/cprogs/arkanoid/main.cpp
+	<iostream>
+	"stdlib.h"
+	<SFML/Graphics.hpp>
+
