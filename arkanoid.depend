@@ -4,3 +4,8 @@
 	"stdlib.h"
 	<SFML/Graphics.hpp>
 
+1510500948 source:/home/nikita/ttt/arkanoid/main.cpp
+	<iostream>
+	"stdlib.h"
+	<SFML/Graphics.hpp>
+
